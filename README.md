@@ -43,11 +43,8 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Stripe Payment Integration ](https://www.youtube.com/watch?v=tV7pP6v-bAo)
-- [Flutter App Development in 12 Weeks](https://www.youtube.com/watch?v=ESY9JyVUBFs)
-- [Programmers inner pain](https://www.youtube.com/watch?v=8a21xE_NDtI)
-- [Build Firebase Web App with Authentication](https://www.youtube.com/watch?v=HmkwOygpaqg)
-- [We Build Amazing Flutter Apps &lpar;Android, iOS and Web&rpar;](https://www.youtube.com/watch?v=4xxyu0wr638)
+- [Stripe Payment Integration ](https://youtu.be/B-YZgi0o61I)
+- [Flutter Admob Tutorial](https://www.youtube.com/playlist?list=PLonUxA9kW-V4akWCux59JLQusIAimGZYh)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://youtube.com/CodingIsLife/videos)
