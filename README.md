@@ -4,7 +4,7 @@
 [![Youtube](https://img.shields.io/static/v1?label=CodingIsLife&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/coding_is__life?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![GitHub followers](https://img.shields.io/github/followers/codeislife07?logo=GitHub&style=for-the-badge)][github]
-<!-- [![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/JohannesMilke/)][linkedin] -->
+<!-- [![Linkedin: codeislife07](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/codeislife07/)][linkedin] -->
 
 - 🔭 &ensp;I’m currently working on [**Youtube**][youtube]!
 - 🌱 &ensp;I’m currently learning Flutter ❤️
@@ -15,14 +15,13 @@
 
 ### Connect With Me
 
-[<img align="left" alt="Johannes Milke | Website" width="28px" src="https://codingislife.net/" />][website]
-[<img align="left" alt="Johannes Milke | YouTube" width="28px" src="https://www.youtube.com/@CodingIsLife" />][youtube]
-[<img align="left" alt="Johannes Milke | Twitter" width="28px" src="https://twitter.com/coding_is__life" />][twitter]
+[<img align="left" alt="Johannes Milke | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
+[<img align="left" alt="Johannes Milke | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media" />][youtube]
+[<img align="left" alt="Johannes Milke | Twitter" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ftwitter.png?alt=media" />][twitter]
 <!-- [<img align="left" alt="Johannes Milke | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin] -->
-
-<!--[<img align="left" alt="Johannes Milke | Instagram" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Finstagram.png?alt=media" />][instagram]
-[<img align="left" alt="Johannes Milke | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />][facebook]
-[<img align="left" alt="Johannes Milke | Medium" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fmedium.png?alt=media" />][medium] -->
+<!--[<img align="left" alt="Johannes Milke | Instagram" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-codeislife07.appspot.com/o/other%2Fsocial%2Finstagram.png?alt=media" />][instagram]
+[<img align="left" alt="Johannes Milke | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-codeislife07.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />][facebook]
+[<img align="left" alt="Johannes Milke | Medium" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-codeislife07.appspot.com/o/other%2Fsocial%2Fmedium.png?alt=media" />][medium] -->
 
 
 <br />
@@ -44,14 +43,14 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [over prepared for interview 😂](https://www.youtube.com/watch?v=tV7pP6v-bAo)
+- [Stripe Payment Integration ](https://www.youtube.com/watch?v=tV7pP6v-bAo)
 - [Flutter App Development in 12 Weeks](https://www.youtube.com/watch?v=ESY9JyVUBFs)
 - [Programmers inner pain](https://www.youtube.com/watch?v=8a21xE_NDtI)
 - [Build Firebase Web App with Authentication](https://www.youtube.com/watch?v=HmkwOygpaqg)
 - [We Build Amazing Flutter Apps &lpar;Android, iOS and Web&rpar;](https://www.youtube.com/watch?v=4xxyu0wr638)
 <!-- YOUTUBE:END -->
 
-➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
+➡️ &ensp;[More Videos...](https://youtube.com/CodingIsLife/videos)
 
 ---
 
@@ -61,16 +60,16 @@
 - [Chip widget: Material Design with Flutter](https://medium.com/flutter-community/chip-widget-material-design-with-flutter-4a834553c9ab?source=rss-1d0dd7b62afc------2)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ &ensp;[More Articles...](https://medium.com/@JohannesMilke)
+➡️ &ensp;[More Articles...](https://medium.com/@codeislife07)
 
 
 
-[website]: https://heyflutter.com
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=HeyFlutter_
-[youtube]: https://youtube.com/@heyflutter?sub_confirmation=1
-[linkedin]: https://www.linkedin.com/company/heyflutter/
-[github]: https://github.com/JohannesMilke
-[instagram]: https://instagram.com/heyflutter_
-[facebook]: https://www.facebook.com/heyflutter
-[medium]: https://medium.com/@JohannesMilke
-[email]: mailto:hello@heyflutter.com
+[website]: https://codingislife.net
+[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcodeislife07&screen_name=HeyFlutter_
+[youtube]: https://youtube.com/@CodingIsLife?sub_confirmation=1
+[linkedin]: https://www.linkedin.com/company/codingislife/
+[github]: https://github.com/codeislife
+[instagram]: https://instagram.com/coding__is__life
+[facebook]: https://www.facebook.com/CodingIsLife
+[medium]: https://medium.com/@CodingIsLife
+[email]: mailto:codingislife07@gmail.com
