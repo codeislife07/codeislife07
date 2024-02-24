@@ -62,7 +62,7 @@
 
 
 [website]: https://codingislife.net
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcodeislife07&screen_name=HeyFlutter_
+[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcodeislife07&screen_name=coding_is__life
 [youtube]: https://youtube.com/@CodingIsLife?sub_confirmation=1
 [linkedin]: https://www.linkedin.com/company/codingislife/
 [github]: https://github.com/codeislife
