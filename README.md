@@ -47,14 +47,14 @@
 - [Flutter Admob Tutorial](https://www.youtube.com/playlist?list=PLonUxA9kW-V4akWCux59JLQusIAimGZYh)
 <!-- YOUTUBE:END -->
 
-➡️ &ensp;[More Videos...](https://youtube.com/CodingIsLife/videos)
+➡️ &ensp;[More Videos...](https://youtube.com/@CodingIsLife/videos)
 
 ---
 
 ### 📚 &ensp;Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Chip widget: Material Design with Flutter](https://medium.com/flutter-community/chip-widget-material-designh-flutter-4a834553c9ab?source=rss-1d0dd7b62afc------2)
+- [Background Fetch In Flutter Android and IOS Setup](https://codingislife.net/background-fetch-in-flutter-android-and-ios-setup/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ &ensp;[More Articles...](https://medium.com/@codeislife07)
